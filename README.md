@@ -9,7 +9,7 @@
 
 - 📫 Reach me at **ajayreddy.fsd@gmail.com**
 
-- 📫 View my projects and portfilio at **https://ajayreddy.netlify.app/**
+- ⭐ View my projects and portfilio at **https://ajayreddy.netlify.app/**
 
 <h3 align="left">Connect with me on LinkedIn:</h3>
 <a href="https://www.linkedin.com/in/ajayreddy-fsd/" target="_blank">
@@ -17,6 +17,8 @@
   
 </a>  
   
+ <p> </p>  
+ 
   
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajayreddy-fsd&show_icons=true&locale=en&layout=compact" alt="ajayreddy-fsd" /></p>  
   
